@@ -1,7 +1,7 @@
 # To-Do-List
 
 Live Demo:  
-https://leo-tsant.github.io/To-Do-List/
+https://leo-tsant.github.io/to-do-list/
 
 ![Project Screenshot](./src/images/todolist.png)
 
